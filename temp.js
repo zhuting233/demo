@@ -3,7 +3,8 @@
 // @namespace    http://www.frienda.com
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
+// @author       cao
+// @license MIT
 // @match        http://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
