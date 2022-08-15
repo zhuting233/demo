@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         hello world
 // @namespace    http://www.frienda.com
-// @version      0.1
-// @description  hello!
+// @version      0.2
+// @description  hello! This is a script for test.
 // @author       cao
 // @license      MIT
 // @match        https://*
