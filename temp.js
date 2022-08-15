@@ -5,7 +5,7 @@
 // @description  hello!
 // @author       cao
 // @license      MIT
-// @match        https://*/*
+// @match        https://*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
